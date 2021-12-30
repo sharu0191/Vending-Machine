@@ -1,0 +1,40 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "Slice",
+            "price": 35,
+            "quantity": 40
+        },
+        {
+            "id": 2,
+            "name": "Sprite",
+            "price": 35,
+            "quantity": 31
+        },
+        {
+            "id": 3,
+            "name": "Coke",
+            "price": 20,
+            "quantity": 36
+        },
+        {
+            "id": 4,
+            "name": "ThumsUP",
+            "price": 15,
+            "quantity": 39
+        },
+        {
+            "id": 5,
+            "name": "Fizz",
+            "price": 10,
+            "quantity": 39
+        }
+    ],
+    "wallet": [{
+        "amount": 530,
+        "id": 1
+    }],
+    "cartItems": [
+
+    ]
+}
